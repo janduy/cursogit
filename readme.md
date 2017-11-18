@@ -11,3 +11,4 @@ Informacoes adicionadas para complementar a solucao.
 Versao3
 
 Kowalski
+JanduyEuclides 18h37min
